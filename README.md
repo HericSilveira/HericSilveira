@@ -1,4 +1,4 @@
-# Héric Silveira — Desenvolvedor Full Stack e Mobile
+# Héric Silveira — Desenvolvedor Full Stack
 
 **Desenvolvedor Full Stack** · 6 anos criando aplicações web e mobile em produção — de SaaS próprio a projetos para clientes.
 
