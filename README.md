@@ -17,8 +17,6 @@
 
 ---
 
----
-
 #### 🛠️ Stack
 
 **Backend:** Python (FastAPI, Django) · Node.js (Express, Fastify) · APIs REST  
