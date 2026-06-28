@@ -5,16 +5,6 @@
 🌐 [codeart.dev.br](https://www.codeart.dev.br) · 🗣️ Português (nativo) · Inglês (C2)
 💼 Aberto a oportunidades — remoto, CLT ou PJ
 
----
-
-#### 🛠️ Stack
-
-**Backend:** Python (FastAPI, Django) · Node.js (Express, Fastify) · APIs REST
-**Frontend:** React · Next.js  ·  **Mobile:** Flutter
-**Dados & Infra:** PostgreSQL · MySQL · SQL Server · Docker · Redis · Git · VPS Linux
-
----
-
 #### 🚀 O que eu construí
 
 **Produto próprio**
@@ -24,6 +14,17 @@
 - **Plataforma de gestão esportiva** — app de campeonatos de futebol, ~500 usuários, em evolução para uma rede social do esporte (aluguel de quadras, campeonatos de X1 e várzea, integração com federações).
 - **App de comandas integrado a ERP** — desenvolvido de ponta a ponta (sob NDA).
 - **Marketplace de serviços sob demanda** — contratação de profissionais com notificação e roteamento em tempo real.
+
+---
+
+---
+
+#### 🛠️ Stack
+
+**Backend:** Python (FastAPI, Django) · Node.js (Express, Fastify) · APIs REST  
+**Frontend:** React · Next.js  
+**Mobile:** Flutter  
+**Dados & Infra:** PostgreSQL · MySQL · SQL Server · Docker · Redis · Git · VPS Linux  
 
 ---
 
